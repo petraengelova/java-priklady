@@ -1,2 +1,2 @@
-# java-priklady
+# Java Priklady
 Java příklady
